@@ -3,7 +3,8 @@
 
 #### Design Brief:
 
-The design brief below 
+The colour choices i made makes it easier for the elderly to distinguish the numbers.
+I made the numbers bigger to make it easier for the elderly to see what they are doing.
 
 
 
