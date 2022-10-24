@@ -11,7 +11,7 @@ The design brief below
 - Ollie Hunt
 
 ### The Design
-* colour
+
   * The colours i have chosen for this calculator are relevant to my target age group
   
   * my targeted age group is the elderly
