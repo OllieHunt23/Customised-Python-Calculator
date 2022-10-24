@@ -12,7 +12,8 @@ The design brief below
 
 ### The Design
 
-  * The colours i have chosen for this calculator are relevant to my target age group
+  
+  * The colours i have chosen for this calculator are relevant to my target age group
   
   * my targeted age group is the elderly
   
@@ -20,9 +21,12 @@ The design brief below
   
   * The **website** that I used for this is: [**w3schools.com**](https://www.w3schools.com/cssref/css_colors.asp?adlt=strict&toWww=1&redig=19F19095162F45B99355CC88D4FAD7AB)
 
+
 * Layout
-  * the layout is that of a  normal calculator.
-  * This is the layout of the **Calculator** in Tkinter.
+  
+  * the layout is that of a  normal calculator.
+  
+  * This is the layout of the **Calculator** in Tkinter.
 
 
 ![image]
